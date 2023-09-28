@@ -1,0 +1,36 @@
+
+.Dark-toggle {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px 10px;
+  height: 100px;
+  background-color: rgb(81, 78, 78) !important;
+}
+
+ button {
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  color: black;
+  font-weight: bold;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+} 
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.main {
+  height: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
